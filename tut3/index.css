@@ -1,0 +1,64 @@
+nav{
+background-color: rgb(87, 70, 70) !important;
+padding: 0px;
+}
+.header{
+color:white;
+display: flex;
+}
+
+.container{
+    width: 90px;
+    margin: auto;
+    overflow: hidden;
+    display: inline;
+    background-color: green;
+
+
+}
+.image{
+    flex: .3;
+     font-size: 40px;
+    text-align: center;
+
+    /*font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+    width: 30%;
+    box-sizing: border-box;
+    display: inline; */
+}
+.premium{
+    border-radius: 5px;
+    background-color: rgb(230, 41, 173);
+    width: 80%;
+    margin: 10px;
+    padding-left: -10px;
+    text-align: center;
+    
+}
+.icon-bar{
+    padding-left:31%;
+    flex: .7;
+    font-size: 20px;
+
+
+
+/* 
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    box-sizing: border-box; */
+    width: 60%;
+}
+.icon-bar ul li{
+display: inline;  
+padding-left:19px;  
+}
+.icon-bar ul{
+    list-style: none;
+    padding: 0px;
+}
+
+.n{
+background-color: gren;
+}
